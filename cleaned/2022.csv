@@ -1,4 +1,4 @@
-,No.Tested,Pos Cases,Neg Casses,% of Pos,malignant,Non-malignant,Quartan,double Tertian,Plasmodium,local,Introduced,Alien,Non-catagorized,regressive
+,No.Tested,Pos Cases,Neg Casses,% of Pos,malignant,Non-malignant,Quartan,Double Tertian,Plasmodium,local,Introduced,Alien,Non-catagorized,regressive
 Dammam,191182,270,190912,0.1,139,130,1,0,0,0,0,270,0,0
 Al-ahssa,29656,38,29618,0.1,25,12,1,0,0,0,0,38,0,0
 Al-jowf,43579,7,43572,0.01,0,7,0,0,0,0,0,7,0,0
