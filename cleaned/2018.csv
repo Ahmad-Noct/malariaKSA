@@ -1,4 +1,4 @@
-,No.Tested,Pos Cases,Neg Casses,% of Pos,malignant,Non-malignant,Plasmodium,Quartan,Double Tertian,local,Alien,Non-catagorized,Else
+,No.Tested,Pos Casses,Neg Casses,% of Pos,malignant,Non-malignant,Plasmodium,Quartan,Double Tertian,local,Alien,Non-catagorized,Else
 Dammam,215322.0,309.0,215013.0,0.1435060049600134,101.0,207.0,0.0,1.0,0.0,0.0,309.0,0.0,0.0
 Al-ahssa,52203.0,21.0,52182.0,0.04022757312798115,13.0,8.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0
 Al-jowf,26742.0,4.0,26738.0,0.01495774437214868,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
